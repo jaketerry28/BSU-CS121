@@ -1,0 +1,48 @@
+[submodule "Bank-on-it-folder"]
+	path = Bank-on-it-folder
+	url = https://github.com/jaketerry28/Bank-on-it.git
+[submodule "bubbleSort-folder"]
+	path = bubbleSort-folder
+	url = https://github.com/jaketerry28/bubbleSort.git
+[submodule "fileIO-folder"]
+	path = fileIO-folder
+	url = https://github.com/jaketerry28/fileIO.git
+[submodule "gitHubDemo121-folder"]
+	path = gitHubDemo121-folder
+	url = https://github.com/jaketerry28/gitHubDemo121.git
+[submodule "guessingGame-folder"]
+	path = guessingGame-folder
+	url = https://github.com/jaketerry28/guessingGame.git
+[submodule "heapOfStudents-folder"]
+	path = heapOfStudents-folder
+	url = https://github.com/jaketerry28/heapOfStudents.git
+[submodule "horseRace-folder"]
+	path = horseRace-folder
+	url = https://github.com/jaketerry28/horseRace.git
+[submodule "Bank-on-it"]
+	path = Bank-on-it
+	url = https://github.com/jaketerry28/Bank-on-it
+[submodule "bubbleSort"]
+	path = bubbleSort
+	url = https://github.com/jaketerry28/bubbleSort.git
+[submodule "fileIO"]
+	path = fileIO
+	url = https://github.com/jaketerry28/fileIO.git
+[submodule "gitHubDemo121"]
+	path = gitHubDemo121
+	url = https://github.com/jaketerry28/gitHubDemo121.git
+[submodule "guessingGame"]
+	path = guessingGame
+	url = https://github.com/jaketerry28/guessingGame.git
+[submodule "heapOfStudents"]
+	path = heapOfStudents
+	url = https://github.com/jaketerry28/heapOfStudents.git
+[submodule "horseRace"]
+	path = horseRace
+	url = https://github.com/jaketerry28/horseRace.git
+[submodule "horseRaceOOP"]
+	path = horseRaceOOP
+	url = https://github.com/jaketerry28/horseRaceOOP.git
+[submodule "javaGuesser"]
+	path = javaGuesser
+	url = https://github.com/jaketerry28/javaGuesser.git
